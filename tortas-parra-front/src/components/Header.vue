@@ -36,7 +36,7 @@ onMounted(() => {
                 </div>
                 <div id="mega-menu" class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1">
                     <ul
-                        class="flex flex-col space-y-3 mt-4 font-medium md:flex-row md:mt-0 md:space-x-8 rtl:space-x-reverse">
+                        class="flex flex-col space-y-3 mt-4 font-medium md:space-y-0 md:flex-row md:mt-0 md:space-x-8 rtl:space-x-reverse">
                         <a href="#" class="block hover:text-red-500 transition duration-150" aria-current="page">Inicio</a>
                         <a href="#" class="block hover:text-red-500 transition duration-150" aria-current="page">Menu</a>
                         <a href="#" class="block hover:text-red-500 transition duration-150" aria-current="page">Sobre
