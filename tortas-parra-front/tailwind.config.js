@@ -8,11 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'courgette': ['Courgette', 'cursive'],
         'ibm-plex-sans': ['IBM Plex Sans', 'sans-serif'],
-      },
-      colors: {
-        'main': '#dfd9d9',
       }
     },
   },
